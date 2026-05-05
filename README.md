@@ -8,6 +8,7 @@ This project uses the LeapGestRecog dataset from Kaggle:
 https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
 After downloading, place the dataset in the project directory as: leapGestRecog/
+
 Custom data (if used) should be added to the corresponding gesture folders.
 
 ## Setup
